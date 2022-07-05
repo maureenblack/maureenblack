@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @maureenwepngong
-- 👀 I’m interested in website development, CSS,html and python programming...
-- 🌱 I’m currently learning wordpress and css...
-- 
+- 👀 I’m interested in website development
 -
 
 <!---
